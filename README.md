@@ -1,4 +1,7 @@
 ### Hi there 👋
+### 🔭 I’m currently working on Web Dev, Android Dev and in terms of languages Java and Python
+### 🌱 I’m currently learning all of the above
+### 📫 How to reach me: vanshikatrivedi.github.io
 
 <!--
 **vanshikatrivedi/vanshikatrivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
