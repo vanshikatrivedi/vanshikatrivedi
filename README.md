@@ -68,6 +68,8 @@ Show some ❤️ !</br>
 
 <div align="center"> 
 <img src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=vanshikatrivedi&layout=compact" alt src="https://github.com/vanshikatrivedi/vanshikatrivedi.git">
+</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshiktrivedi&show_icons=true&locale=en&layout=compact">
 </div>
 
 <!--
