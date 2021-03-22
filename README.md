@@ -70,7 +70,7 @@ Show some ❤️ !</br>
 </p>
 
 <div align="center"> 
-[![Top Langs]<img src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=vanshikatrivedi&layout=compact">](https://github.com/vanshikatrivedi/vanshikatrivedi.git)
+<img src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=vanshikatrivedi&layout=compact" alt src="https://github.com/vanshikatrivedi/vanshikatrivedi.git">
 </div>
 
 <!--
