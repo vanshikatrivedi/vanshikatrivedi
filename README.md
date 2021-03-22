@@ -6,7 +6,7 @@
 
 <h3>I am Vanshika Trivedi, an Aspiring Developer 😊</h3>
 
-<h4><i>Keenly interested in all fields of Coding and Development, be it Android or Web-Development. I can code in languages like C, C++, Java and Python too and have worked on several IDEs too. I am a curious and quick learner trying my hands on all sorts of technology, and yet to explore plethora in this field.</i></h4>
+<h4><i><style color ="#101010">Keenly interested in all fields of Coding and Development, be it Android or Web-Development. I can code in languages like C, C++, Java and Python too and have worked on several IDEs too. I am a curious and quick learner trying my hands on all sorts of technology, and yet to explore plethora in this field.</style></i></h4>
 
 🔭 I’m currently in my Junior year, pursuing a major in Computer Science at <a href="https://www.cumminscollege.edu.in/">Cummins College of Engineering for Women, Nagpur.</a>
 
