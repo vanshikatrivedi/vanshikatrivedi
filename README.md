@@ -6,7 +6,7 @@
 
 <h3>I am Vanshika Trivedi, an Aspiring Developer 😊</h3>
 
-<h4><i>Keenly interested in all fields of Coding and Development, be it Android or Web-Development. I can code in languages like C, C++, Java and Python too and have worked on several IDEs too. I am a curious and quick learner trying my hands on all sorts of technology, and yet to explore plethora in this field.</i></h4>
+<h5><i>Keenly interested in all fields of Coding and Development, be it Android or Web-Development. I can code in languages like C, C++, Java and Python too and have worked on several IDEs too. I am a curious and quick learner trying my hands on all sorts of technology, and yet to explore plethora in this field.</i></h5>
 
 🔭 I’m currently in my Junior year, pursuing a major in Computer Science at <a href="https://www.cumminscollege.edu.in/">Cummins College of Engineering for Women, Nagpur.</a>
 
@@ -57,6 +57,8 @@ Show some ❤️ !</br>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
+<div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshikatrivedi" alt="vanshikatrivedi" /></a> </div>
+
 <br/>
 
 ## Languages and Tools
@@ -66,7 +68,6 @@ Show some ❤️ !</br>
 </p>
 
 <div align="center"> 
- 
 [![Top Langs](https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=vanshikatrivedi&layout=compact)](https://github.com/vanshikatrivedi/vanshikatrivedi.git)
 </div>
 
