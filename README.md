@@ -27,10 +27,10 @@ Show some ❤️ !</br>
 
 </div>
 
-<!--
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vanshikatrivedi" alt="Vanshika Trivedi" /> </p>
 <p align="center">
--->
+
 
 ## Connect with me
 
@@ -47,7 +47,6 @@ Show some ❤️ !</br>
   
 <br/>
 
-div align="center">
 <a href="https://vanshikatrivedi.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/-Portfolio%20Website-brightgreen alt=Portofio-Website style="margin-bottom: 5px;" />
 </a>
