@@ -19,10 +19,10 @@
 Please feel free to clone/fork projects, raise issues and submit PRs if you think it can be optimized. <br>
 Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b></a>
 
-<i>Happy Coding!</i> 😊
+> <i>Happy Coding!</i> 😊
 
-Show some ❤️ !</br>
-⭐️ some of my repositories!
+> Show some ❤️ !</br>
+> ⭐️ some of my repositories!
 
 </div>
 
