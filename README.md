@@ -57,6 +57,8 @@ Show some ❤️ !</br>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
+<br/>
+
 <div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshikatrivedi" alt="vanshikatrivedi" /></a> </div>
 
 <br/>
