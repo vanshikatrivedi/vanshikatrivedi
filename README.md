@@ -55,7 +55,9 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<a href="https://github.com/vanshikatrivedi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&theme=light&line_height=27&count_private=true&hide_border=true" style="width: 100%" />
+</a>
 
 <br/>
 
@@ -81,16 +83,13 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 
 <div align="center">
  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikatrivedi&show_icons=true&locale=en&layout=compact" alt src="https://github.com/vanshikatrivedi/vanshikatrivedi.git"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/all-langs?username=vanshikatrivedi&show_icons=true&locale=en&layout=compact" alt src="https://github.com/vanshikatrivedi/vanshikatrivedi.git"/>
  </p>
  
  <a href="https://github.com/vanshikatrivedi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikatrivedi&theme=auto&show_icons=true&locale=en" />
 </a>
 <br>
-<a href="https://github.com/vanshikatrivedi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&theme=light&line_height=27" />
-</a>
 
 </br>
 </div>
