@@ -83,7 +83,7 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 
 <div align="center">
  <a href="https://github.com/vanshikatrivedi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikatrivedi&theme=auto&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikatrivedi&theme=dark&show_icons=true&locale=en" />
  </a>
 <br>
 </div>
