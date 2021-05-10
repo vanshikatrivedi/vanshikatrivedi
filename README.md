@@ -77,12 +77,13 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
-
 </p>
 
-<div align="center"> 
-<img src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=vanshikatrivedi&layout=compact" alt src="https://github.com/vanshikatrivedi/vanshikatrivedi.git">
+<div align="center">
+ <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikatrivedi&show_icons=true&locale=en&layout=compact" alt src="https://github.com/vanshikatrivedi/vanshikatrivedi.git"/>
+ </p>
+ 
 </br>
 </div>
 
