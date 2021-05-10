@@ -56,7 +56,7 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 ## Github Stats
 
 <a href="https://github.com/vanshikatrivedi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&theme=light&line_height=27&count_private=true&hide_border=true" style="width: 100%" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&theme=dark&line_height=27&count_private=true&hide_border=true&locale=en" style="width: 100%" />
 </a>
 
 <br/>
