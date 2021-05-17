@@ -84,7 +84,7 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 </p>
 
                            
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikatrivedi&theme=dark&show_icons=true&locale=en&layout=compact" alt="vanshikatriedi" /></p>                           
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikatrivedi&theme=dark&show_icons=true&locale=en&layout=compact" alt="vanshikatriedi" /></p>                           
 
 <!--
 ### Hi there 👋
