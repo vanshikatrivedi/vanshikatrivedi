@@ -83,12 +83,8 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<div align="center">
- <a href="https://github.com/vanshikatrivedi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikatrivedi&theme=dark/>
- </a>
-<br>
-</div>
+                           
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikatrivedi&theme=dark&show_icons=true&locale=en&layout=compact" alt="vanshikatriedi" /></p>                           
 
 <!--
 ### Hi there 👋
