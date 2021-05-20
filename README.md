@@ -57,7 +57,7 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 
 <div align="center">
 <a href="https://github.com/vanshikatrivedi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&theme=dark&line_height=27&count_private=true&hide_border=true&locale=en" style="width: 100%" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&theme=dark&line_height=27&count_private=true&locale=en" style="width: 100%" />
 </a>
 </div>
 
@@ -84,7 +84,7 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 </p>
 
                            
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikatrivedi&theme=dark&show_icons=true&locale=en&layout=compact" alt="vanshikatriedi" /></p>                           
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikatrivedi&theme=dark&show_icons=true&count_private=true&locale=en&layout=compact" alt="vanshikatriedi" /></p>                           
 
 <!--
 ### Hi there 👋
