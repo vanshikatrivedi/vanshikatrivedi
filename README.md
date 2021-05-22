@@ -1,5 +1,5 @@
 <div align="center">
- <h2><i> Hey</i>, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+ <h2><i> Hey</i>, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center">
@@ -29,36 +29,17 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vanshikatrivedi" alt="Vanshika Trivedi" /> </p>
 <p align="center">
 
-## Connect with me
 
-<div align="center">
-<a href="https://github.com/vanshikatrivedi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/heyvanshi" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/vanshikatrivedi/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
-  
-<br/>
-
-<a href="https://vanshikatrivedi.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/-Portfolio%20Website-brightgreen alt=Portofio-Website style="margin-bottom: 5px;" />
-</a>
-<a href="https://drive.google.com/file/d/1Js8dSWFWsika7EEyADbLXXQD0T1qdXwy/view?usp=sharing" target="_blank">
-<img src=https://img.shields.io/badge/-Resume-brightgreen alt=Resume style="margin-bottom: 5px;" />
-</a>
-
-</div>
 
 ## Github Stats
 
 <div align="center">
+
 <a href="https://github.com/vanshikatrivedi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&theme=dark&line_height=27&count_private=true&locale=en" style="width: 100%" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&theme=dark&line_height=30&count_private=true&locale=en" style="width: 100%" />
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikatrivedi&theme=dark&show_icons" alt="vanshikatrivedi" /></p>
+<br>
 </div>
 
 <br/>
@@ -81,10 +62,26 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+
 </p>
 
+<br>
                            
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikatrivedi&theme=dark&show_icons=true&count_private=true&locale=en&layout=compact" alt="vanshikatriedi" /></p>                           
+
+
+### <i>Connect with me across the web :</i>
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-VanshikaTrivedi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vanshikatrivedi/)](https://www.linkedin.com/in/vanshikatrivedi/) 
+[![Twitter Badge](http://img.shields.io/badge/-@heyvanshi-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/heyvanshi)](https://twitter.com/heyvanshi) </br>
+[![Instagram Badge](https://img.shields.io/badge/-vanshikatrivediii-blue?style=social&logo=Instagram&link=https://www.instagram.com/vanshikatrivediii/)](https://www.instagram.com/vanshikatrivediii/)
+</div>
+
+<br>
+
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 
 <!--
 ### Hi there 👋
