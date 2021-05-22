@@ -34,10 +34,10 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 ## Github Stats
 
 <div align="center">
-
 <a href="https://github.com/vanshikatrivedi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&theme=dark&line_height=30&count_private=true&locale=en" style="width: 100%" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&theme=dark&line_height=27&count_private=true&locale=en" style="width: 100%" />
 </a>
+<br>
 <br>
 <a href="https://github.com/vanshikatrivedi">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikatrivedi&theme=dark&show_icons"style="width: 100%"/></p>
