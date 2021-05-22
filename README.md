@@ -38,11 +38,12 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 <a href="https://github.com/vanshikatrivedi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&theme=dark&line_height=30&count_private=true&locale=en" style="width: 100%" />
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikatrivedi&theme=dark&show_icons" alt="vanshikatrivedi" /></p>
+<br>
+<a href="https://github.com/vanshikatrivedi">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikatrivedi&theme=dark&show_icons"style="width: 100%"/></p>
+</a>
 <br>
 </div>
-
-<br/>
 
 
 ## Languages and Tools
