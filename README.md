@@ -35,12 +35,12 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 
 <div align="center">
 <a href="https://github.com/vanshikatrivedi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&theme=dark&line_height=27&count_private=true&locale=en" style="width: 100%" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikatrivedi&show_icons=true&theme=dark&line_height=27&count_private=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" style="width: 100%" />
 </a>
 <br>
 <br>
 <a href="https://github.com/vanshikatrivedi">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikatrivedi&theme=dark&show_icons"style="width: 100%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikatrivedi&theme=dark&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"style="width: 100%"/></p>
 </a>
 <br>
 </div>
@@ -69,7 +69,7 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 
 <br>
                            
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikatrivedi&theme=dark&show_icons=true&count_private=true&locale=en&layout=compact" alt="vanshikatriedi" /></p>                           
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikatrivedi&theme=dark&show_icons=true&count_private=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="vanshikatriedi" /></p>                           
 
 
 ### <i>Connect with me across the web :</i>
