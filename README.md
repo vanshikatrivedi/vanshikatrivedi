@@ -39,13 +39,13 @@ Ask me anything by<a href="mailto:mailto.vanshikatrivedi@gmail.com"><b> email</b
 </a>
 <br>
 <br>
-
+<!--
 <a href="https://github.com/vanshikatrivedi">
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vanshikatrivedi&theme=blue-green"style="width: 100%"/></p>
 </a>
 <br>
 </div>
-
+-->
 
 ## Languages and Tools
 
